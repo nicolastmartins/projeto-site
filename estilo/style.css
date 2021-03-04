@@ -1,0 +1,18 @@
+* {
+    font-family: arial;
+    font-size: 16;
+    
+}
+
+    body {
+
+        background-color: aliceblue;
+        width: 500px;
+        margin: auto;
+        padding: 10px;
+    }
+
+    main {
+
+        background-color: aliceblue;
+    }
